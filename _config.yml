@@ -1,6 +1,6 @@
 name: White Paper
 markdown: redcarpet
-pygments: true
+highlighter: pygments
 url: http://vinitkumar.me/white-paper
 paginate: 8
 description:     Jekyll theme for Programmers
