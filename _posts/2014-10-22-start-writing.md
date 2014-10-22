@@ -13,7 +13,7 @@ tags: []
   console.log('hello world');
 {% endhighlight %}
 
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
+Whatever ,It starts and will last.
 
 {% highlight yaml %}
 author: SunLn
