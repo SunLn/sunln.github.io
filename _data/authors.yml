@@ -2,13 +2,11 @@
 
 SunLn:
   name: SunLn
-  web: http://yglht.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+  web: http://blog.yglht.com
+  email: dengchenhua@gmail.com
+  bio: "Enjoy A Hapyy Life"
   avatar: bio-photo.jpg
-  twitter: extravagantman
-  google:
-    plus: BillyRick
+  github: SunLn
 
 cornelius_fiddlebone:
   name: Cornelius Fiddlebone
