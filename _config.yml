@@ -1,6 +1,6 @@
 permalink: /:year/:month/:title/
-url: http://geeklu.com
-author: 卢克
+url: http://sunln.github.io
+author: SunLn
 highlighter: rouge
 timezone: Asia/Shanghai
 gems: [jekyll-paginate]
